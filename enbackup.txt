@@ -1,0 +1,427 @@
+<html>
+	<head>
+		<title>Enterprise Networking - Bsc. I.T.</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+		<link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-blue.min.css">
+		<link rel="stylesheet" href="index.css">
+		<script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+	</head>
+	<body>
+		<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+			<header class="mdl-layout__header">
+				<div class="mdl-layout__header-row">
+					<span class="mdl-layout-title">Bsc. I.T. - Enterprise Networking</span>
+					<div class="mdl-layout-spacer"></div>
+					<nav class="mdl-navigation mdl-layout--large-screen-only">
+						<a class="mdl-navigation__link" href="index.html">Home</a>
+						<a class="mdl-navigation__link" href="eligibility.html">Eligibility</a>
+						<a class="mdl-navigation__link" href="evaluation.html">Evaluation Scheme</a>
+						<a class="mdl-navigation__link" href="qp.html">Question Papers</a>
+						<a class="mdl-navigation__link" href="sr.html">Software Required</a>
+					</nav>
+				</div>
+			</header>
+			<div class="mdl-layout__drawer">
+				<span class="mdl-layout-title">Bsc. I.T.</span>
+				<nav class="mdl-navigation">
+					<a class="mdl-navigation__link" href="index.html">Home</a>
+					<a class="mdl-navigation__link" href="eligibility.html">Eligibility</a>
+					<a class="mdl-navigation__link" href="evaluation.html">Evaluation Scheme</a>
+					<a class="mdl-navigation__link" href="qp.html">Question Papers</a>
+					<a class="mdl-navigation__link" href="sr.html">Software Required</a>
+				</nav>
+			</div>
+			<style>
+				table, th, td {
+					border: 2px solid black;
+					border-collapse:collapse;
+				}
+				th, td {
+					padding: 10px;
+				}
+			</style>
+			<main class="mdl-layout__content">
+				<div class="page-content"><br>
+					<div style="width:90%;padding-left:5%;padding-right:5%">
+						<h3 align=center>Enterprise Networking Syllabus</h3>
+						<table align=center>
+							<tr align=center><td><b>Unit</b></td><td><b>Details</b></td></tr>
+							<tr><td align=center><b>I</b></td>
+								<td>
+									<b>Part 1 - General Network Design: </b><br>
+									<b>Network Design Methodology: </b>
+									<br>
+									Architectures for the Enterprise: Borderless Networks Architecture, Collaboration and Video Architecture, Data Center and Virtualization Architecture
+									<br>
+									Design Lifecycle: Plan,Build,Manage: Plan Phase, Build Phase, Manage Phase
+									<br>
+									Prepare,Plan,Design,Implement,Operate,and Optimize Phases: Prepare Phase, Plan Phase, Design Phase, Implement Phase, Operate Phase, Optimize Phase, Summary of PPDIOO Phases, Project Deliverables, Design Methodology
+									<br>
+									Identifying Customer Design Requirements 
+									<br>
+									Characterizing the Existing Network: Steps in Gathering Information, Network Audit Tools, Network Checklist
+									<br>
+									Designing the Network Topology and Solutions : Top-Down Approach, Pilot and Prototype Tests, Design Document<br><br>
+									<b>Network Design Models: </b>
+									<br>
+									Hierarchical Network Models: Benefits of the Hierarchical Model, Hierarchical Network Design: Core Layer, Distribution Layer, Access Layer, Hierarchical Model Examples, Hub-and-Spoke, Design Collapsed Core, Design Enterprise Architecture Model, Enterprise Campus Module, Enterprise Edge Area, E-Commerce Module, Internet Connectivity Module, VPN/Remote Access, Enterprise WAN, Service Provider Edge Module, Remote Modules, Enterprise Branch Module, Enterprise Data Center Module, Enterprise Teleworker Module, High Availability Network Services, Workstation-to-Router Redundancy and LAN, High Availability Protocols, ARP Explicit Configuration, RDP, RIP, HSRP, VRRP, GLBP, Server Redundancy, Route Redundancy, Load Balancing, Increasing Availability, Link Media Redundancy
+								</td>
+							</tr>
+							<tr><td align=center><b>II</b></td>
+								<td>
+									<b>Part 2 - LAN and WAN Design: </b><br>
+									<b>Enterprise LAN Design: </b>LAN Media, Ethernet Design Rules, 100Mbps Fast Ethernet Design Rules, Gigabit Ethernet Design Rules, 1000BASE-LX Long-Wavelength Gigabit Ethernet, 1000BASE-SX Short-Wavelength Gigabit Ethernet, 1000BASE-CX Gigabit Ethernet over Coaxial Cable, 1000BASE-T Gigabit Ethernet over UTP 86, 10 Gigabit Ethernet Design Rules, 10GE Media Types, EtherChannel, Comparison of Campus Media LAN Hardware, Repeaters, Hubs, Bridges, Switches, Routers, Layer 3 Switches, Campus LAN Design and Best Practices Best Practices for Hierarchical Layers, Access Layer Best Practices, Distribution Layer Best Practices, Core Layer Best Practices, STP Design Considerations, STP Toolkit, PortFast, UplinkFast, BackboneFast, Loop Guard, Root Guard, BPDU Guard, BPDU Filter, VLAN and Trunk Considerations, Unidirectional Link Detection (UDLD) Protocol, Large-Building LANs, Enterprise Campus LANs, Edge Distribution, Medium-Size LANs, Small and Remote Site LANs, Server Farm Module, Server Connectivity Options, Enterprise Data Center Infrastructure, Campus LAN QoS Considerations, Multicast Traffic Considerations, CGMP, IGMP Snooping.<br><br>
+									<b>Data Center Design: </b>Enterprise DC Architecture, Data Center Foundation Components, Data Center Topology Components, Data Center Network Programmability, SDN, Controllers, APIs, ACI, Challenges in the DC, Data Center Facility Aspects, Data Center Space, Data Center Power, Data Center Cooling, Data Center Heat, Data Center Cabling, Enterprise DC Infrastructure, Data Center Storage, Data Center Reference Architecture, Defining the DC Access Layer, Defining the DC Aggregation Layer, Defining the DC Core Layer, Security in the DC, Fabric Extenders, Virtualization Overview, Challenges, Defining Virtualization and Benefits, Virtualization Risks, Types of Virtualization, Virtualization Technologies, VSS, VRF, vPC, Device Contexts, Server Virtualization, Server Scaling, Virtual Switching, Network Virtualization Design Considerations, Access Control, Path Isolation, Services Edge, Data Center Interconnect, DCI Use Cases, DCI Transport Options, DCI L2 Considerations, Load Balancing in the DC, Application Load Balancing, Network Load Balancing.
+								</td>
+							</tr>
+							<tr><td align=center><b>III</b></td>
+								<td>
+									<b>Wireless LAN Design </b>Wireless LAN Technologies, WLAN Standards, ISM and UNII Frequencies, Summary of WLAN Standards, Service Set Identifier, WLAN Layer 2 Access Method, WLAN Security, Unauthorized Access, WLAN Security Design Approach, IEEE 802.1X-2001 Port-Based Authentication, Dynamic WEP Keys and LEAP, Controlling WLAN Access to Servers, WLAN Authentication, Authentication Options, WLAN Controller Components, WLC Interface Types, AP Controller Equipment Scaling, Roaming and Mobility Groups, Intracontroller Roaming, Layer 2 Intercontroller Roaming, Layer 3 Intercontroller Roaming, Mobility Groups, WLAN Design, Controller Redundancy Design: Deterministic vs. Dynamic, N+1 WLC Redundancy, N+N WLC Redundancy, N+N+1 WLC Redundancy, Radio Management and Radio Groups, RF Groups, RF Site Survey, Using EoIP Tunnels for Guest Services, Wireless Mesh for Outdoor Wireless, Mesh Design Recommendations, Campus Design Considerations, Power over Ethernet (PoE), Wireless and Quality of Service (QoS), Branch Design Considerations, Local MAC, REAP, Hybrid REAP, Branch Office Controller Options.<br><br>
+									<b>WAN Technologies and the Enterprise Edge: </b>WAN and Enterprise Edge Overview, Definition of WAN, WAN Edge Module, Enterprise Edge Modules, WAN Transport Technologies, ISDN, ISDN BRI Service, ISDN PRI Service, Digital Subscriber Line, Cable, Wireless, Frame Relay, Time-Division Multiplexing, Metro Ethernet, SONET/SDH, Multiprotocol Label Switching (MPLS), Dark Fiber, Dense Wavelength-Division Multiplexing, Ordering WAN Technology and Contracts, WAN and Edge Design Methodologies, Response Time, Throughput, Reliability, Bandwidth Considerations, WAN Link Categories, Optimizing Bandwidth Using QoS, Queuing, Traffic Shaping and Policing, Classification, Congestion Management, Priority Queuing, Custom Queuing, Weighted Fair Queuing, Class-Based Weighted Fair Queuing, Low-Latency Queuing, Traffic Shaping and Policing, Link Efficiency, Window Size, DMZ Connectivity, Segmenting DMZs, DMZ Services, Internet Connectivity, Centralized Internet (Branch) vs. Direct Internet (Branch), High Availability for the Internet Edge, VPN Network Design.<br><br>
+									<b>WAN Design: </b>Traditional WAN Technologies Hub-and-Spoke Topology Full-Mesh Topology Partial-Mesh Topology Point-to-Point Topology Remote Site Connectivity, Enterprise VPN vs. Service Provider VPN Enterprise Managed VPN: IPsec IPsec Direct Encapsulation Generic Routing Encapsulation IPsec DMVPN IPsec Virtual Tunnel Interface Design GETVPN Service Provider–Managed Offerings ,Metro Ethernet Service Provider VPNs: L2 vs. L3 ,Virtual Private Wire Services VPWS L2 VPN Considerations ,Virtual Private LAN Services VPLS L2 VPN Considerations ,MPLS, MPLS Layer 3 Design Overview MPLS L3 VPN Considerations ,VPN Benefits WAN Backup Design WAN Backup over the Internet Enterprise WAN Architecture Cisco Enterprise MAN/WAN Enterprise WAN/MAN Architecture Comparison ,Enterprise WAN Components Comparing Hardware and Software Enterprise Branch Architecture Branch Design Branch Connectivity Redundancy for Branches Single WAN Carrier vs. Dual WAN Carriers Single MPLS Carrier Site ,Dual MPLS Carriers Hybrid WAN: L3 VPN with IPsec VPN ,Internet for Branches Flat Layer 2 vs. Collapsed Core ,Enterprise Branch Profiles Small Branch Design Medium Branch Design Large Branch Design Enterprise Teleworker Design ,ISRs for Teleworkers
+								</td>
+							</tr>
+							<tr><td align=center><b>IV</b></td>
+								<td>
+									<b>Part 3 - The Internet Protocol and Routing Protocols: </b><br>
+									<b>Internet Protocol Version 4 Design: </b>IPv4 Header ToS IPv4 Fragmentation IPv4 Addressing ,IPv4 Address Classes Class A Addresses Class B Addresses ,Class C Addresses Class D Addresses Class E Addresses ,IPv4 Address Types IPv4 Private Addresses NAT ,IPv4 Address Subnets Mask Nomenclature IP Address Subnet Design Example Determining the Network Portion of an IP Address Variable-Length Subnet Masks, Loopback Addresses IP Telephony Networks ,IPv4 Addressing Design Goal of IPv4 Address Design , Plan for Future Use of IPv4 Addresses , Performing Route Summarization , Plan for a Hierarchical IP Address Network , Private and Public IP Address and NAT Guidelines , Steps for Creating an IPv4 Address Plan, Case Study: IP Address Subnet Allocation , Address Assignment and Name Resolution , Recommended Practices of IP Address Assignment , BOOTP DHCP DNS<br><br>
+									<b>Internet Protocol Version 6 Design: </b>IPv6 Header IPv6 Address Representation IPv4-Compatible IPv6 Addresses IPv6 Prefix Representation IPv6 Address Scope Types and Address Allocations IPv6 Address Allocations IPv6 Unicast Address Global Unicast Addresses Link-Local Addresses , Unique Local IPv6 Address Global Aggregatable IPv6 Address , IPv4-Compatible IPv6 Address IPv6 Anycast Addresses , IPv6 Multicast Addresses IPv6 Mechanisms ICMPv6 , IPv6 Neighbor Discovery Protocol IPv6 Name Resolution , Path MTU Discovery IPv6 Address-Assignment Strategies , Manual Configuration SLAAC of Link-Local Address , SLAAC of Globally Unique IPv6 Address DHCPv6 , DHCPv6 Lite IPv6 Security IPv6 Routing Protocols<br>
+									RIPng OSPFv3 , BGP4 Multiprotocol Extensions (MP-BGP) for IPv6 , IPv6 Addressing Design , Planning for Addressing with IPv6 , Route Summarization with IPv6 IPv6 Private Addressing<br>
+									IPv6 for the Enterprise IPv6 Address Allocation , Partly Linked IPv4 Address into IPv6, Whole IPv4 Address Linked into IPv6<br>
+									IPv6 Addresses Allocated Per Location and/or Type , IPv4-to-IPv6 Transition Mechanisms and Deployment Models , Dual-Stack Mechanism IPv6 over IPv4 Tunnels , Protocol Translation Mechanisms IPv6 Deployment Models , Dual-Stack Model Hybrid Model Service Block Model ,IPv6 Deployment Model Comparison IPv6 Comparison with IPv4<br><br>
+									<b>OSPF, BGP, Route Manipulation, and IP Multicast: </b>OSPFv2 OSPFv2 Metric OSPFv2 Adjacencies and Hello Timers , OSPFv2 Areas OSPF Area Design Considerations OSPF Router Types OSPF DRs LSA Types Autonomous System External Path Types OSPF Stub Area Types Stub Areas Totally Stubby Areas , NSSAs Virtual Links OSPFv2 Router Authentication , OSPFv2 Summary OSPFv3 OSPFv3 Changes from OSPFv2, OSPFv3 Areas and Router Types OSPFv3 LSAs OSPFv3 Summary<br>
+									BGP BGP Neighbors eBGP iBGP Route Reflectors Confederations BGP Administrative Distance , BGP Attributes, Weight, and the BGP Decision Process<br>
+									BGP Path Attributes Next-Hop Attribute Local Preference Attribute Origin Attribute Autonomous System Path Attribute<br>
+									MED Attribute Community Attribute Atomic Aggregate and Aggregator Attributes Weight BGP Decision Process , BGP Summary , Route Manipulation PBR Route Summarization<br>
+									Route Redistribution Default Metric OSPF Redistribution Route Filtering Transit Traffic Routing Protocols on the Hierarchical Network Infrastructure IP Multicast Review , Multicast Addresses Layer 3 to Layer 2 Mapping IGMP , IGMPv1 IGMPv2 IGMPv3 CGMP IGMP Snooping , Sparse Versus Dense Multicast Multicast Source and Shared Trees PIM PIM-SM PIM DR Auto-RP PIMv2 Bootstrap Router , DVMRP , IPv6 Multicast Addresses
+								</td>
+							</tr>
+							<tr><td align=center><b>V</b></td>
+								<td>
+									<b>Part 4 - Security, Convergence, Network Management</b><br>
+									<b>Managing Security: </b>Network Security Overview Security Legislation Security Threats Reconnaissance and Port Scanning Vulnerability Scanners<br>
+									Unauthorized Access Security Risks Targets Loss of Availability<br>
+									Integrity Violations and Confidentiality Breaches , Security Policy and Process Security Policy Defined , Basic Approach of a Security Policy Purpose of Security Policies, Security Policy Components Risk Assessment , Risk Index Continuous Security Integrating Security Mechanisms into Network Design Trust and Identity Management , Trust Domains of Trust Identity Passwords Tokens Certificates , Network Access Control Secure Services Encryption Fundamentals Encryption Keys VPN Protocols , Transmission Confidentiality Data Integrity Threat Defense , Physical Security Infrastructure Protection Security Management Solutions <br><br>
+									<b>Security Solutions: </b>Network Security Platforms , Trust and Identity Technologies Firewall Fundamentals , Types of Firewalls Next-Gen Firewalls NAT Placement , Firewall Guidelines Firewall ACLs , Identity and Access Control Deployments Detecting and Mitigating Threats IPS/IDS Fundamentals IPS/IDS Guidelines , Threat Detection and Mitigation Technologies , Threat-Detection and Threat-Mitigation Solutions , FirePOWER IPS Security Management Applications , Security Platform Solutions Security Management Network Integrating Security into Network Devices IOS Security , ISR G2 Security Hardware Options Securing the Enterprise , Implementing Security in the Campus Implementing Security in the Data Center Implementing Security in the Enterprise Edge<br><br>
+									<b>Network Management Protocols: </b>Simple Network Management Protocol SNMP Components , MIB SNMP Message Versions SNMPv1 SNMPv2 SNMPv3 , Other Network Management Technologies RMON , RMON2 NetFlow Compared to RMON and SNMP , CDP LLDP Syslog
+								</td>
+							</tr>
+						</table>
+						<br>
+						<h3 align=center>Enterprise Networking Practicals</h3>
+						<table align=center>
+							<tr align=center><td><b>Practical No</b></td><td><b>Details</b></td></tr>
+							<tr><td align=center><b>1</b></td>
+								<td>
+									<b>Configuring OSPF – I</b>
+								</td>
+							</tr>
+							<tr><td align=center><b>a</b></td>
+								<td>
+									Single-Area OSPF Link Costs and Interface Priorities
+								</td>
+							</tr>
+							<tr><td align=center><b>b</b></td>
+								<td>
+									Multi-Area OSPF with Stub Areas and Authentication
+								</td>
+							</tr>
+							<tr><td align=center><b>2</b></td>
+								<td>
+									<b>Configuring OSPF – II</b>
+								</td>
+							</tr>
+							<tr><td align=center><b>a</b></td>
+								<td>
+									OSPF Virtual Links and Area Summarization
+								</td>
+							</tr>
+							<tr><td align=center><b>b</b></td>
+								<td>
+									OSPF over Frame Relay
+								</td>
+							</tr>
+							<tr><td align=center><b>3</b></td>
+								<td>
+									<b>Redistribution and Administrative Distances</b>
+								</td>
+							</tr>
+							<tr><td align=center><b>a</b></td>
+								<td>
+									Redistribution Between RIP and OSPF
+								</td>
+							</tr>
+							<tr><td align=center><b>b</b></td>
+								<td>
+									Manipulating Administrative Distances
+								</td>
+							</tr><tr><td align=center><b>4</b></td>
+								<td>
+									<b>BGP</b>
+								</td>
+							</tr>
+							<tr><td align=center><b>a</b></td>
+								<td>
+									Configuring BGP with Default Routing
+								</td>
+							</tr>
+							<tr><td align=center><b>b</b></td>
+								<td>
+									Using the AS_PATH Attribute
+								</td>
+							</tr>
+							<tr><td align=center><b>c</b></td>
+								<td>
+									BGP Route Reflectors and Route Filters
+								</td>
+							</tr>
+							<tr><td align=center><b>5</b></td>
+								<td>
+									<b>IPv6</b>
+								</td>
+							</tr>
+							<tr><td align=center><b>a</b></td>
+								<td>
+									Configuring OSPF for IPv6
+								</td>
+							</tr>
+							<tr><td align=center><b>b</b></td>
+								<td>
+									Configuring 6to4 Tunnels
+								</td>
+							</tr><tr><td align=center><b>6</b></td>
+								<td>
+									<b>VLANs and EtherChannel</b>
+								</td>
+							</tr>
+							<tr><td align=center><b>a</b></td>
+								<td>
+									Static VLANS, VLAN Trunking, and VTP Domains and Modes
+								</td>
+							</tr>
+							<tr><td align=center><b>b</b></td>
+								<td>
+									Configuring EtherChannel
+								</td>
+							</tr><tr><td align=center><b>7</b></td>
+								<td>
+									<b>Spanning Tree Protocol</b>
+								</td>
+							</tr>
+							<tr><td align=center><b>a</b></td>
+								<td>
+									Spanning Tree Protocol (STP) Default Behavior
+								</td>
+							</tr>
+							<tr><td align=center><b>b</b></td>
+								<td>
+									Modifying Default Spanning Tree Behavior
+								</td>
+							</tr><tr><td align=center><b>8</b></td>
+								<td>
+									<b>VLAN and Spanning Tree</b>
+								</td>
+							</tr>
+							<tr><td align=center><b>a</b></td>
+								<td>
+									Per-VLAN Spanning Tree Behavior
+								</td>
+							</tr>
+							<tr><td align=center><b>b</b></td>
+								<td>
+									Multiple Spanning Tree
+								</td>
+							</tr>
+							<tr><td align=center><b>1</b></td>
+								<td>
+									<b>Internal VLAN Routing</b>
+								</td>
+							</tr>
+							<tr><td align=center><b>a</b></td>
+								<td>
+									Inter-VLAN Routing with an External Router
+								</td>
+							</tr>
+							<tr><td align=center><b>b</b></td>
+								<td>
+									Inter-VLAN Routing with an Internal Route Processor
+								</td>
+							</tr>
+							<tr><td align=center><b>10</b></td>
+								<td>
+									<b>Configure NAT Services</b>
+								</td>
+							</tr>
+						</table>
+						<br>
+						<h3 align=center>Enterprise Networking Reference Books</h3>
+						<div class="mdl-grid" align=center>
+							<div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-phone">
+								<table align=center>
+									<tr>
+										<td><b>Title</b></td>
+										<td>CCDA 200-310Official Cert Guide</td>
+									</tr>
+									<tr>
+										<td><b>Authors</b></td>
+										<td>ANTHONY BRUNO, CCIE No. 2738 STEVE JORDAN, CCIE No. 11293</td>
+									</tr>
+									<tr>
+										<td><b>Publisher</b></td>
+										<td>Cisco Press</td>
+									</tr>
+									<tr>
+										<td><b>Edition</b></td>
+										<td></td>
+									</tr>
+									<tr>
+										<td><b>Year</b></td>
+										<td></td>
+									</tr>
+									<tr>
+										<td colspan=2 align=center><a href="http://festyy.com/wCiBLk" target=_blank>Download Here</a></td>
+									</tr>
+								</table>
+							</div>
+							<div class="mdl-cell mdl-cell--6-col mdl-cell--12-col-phone">
+								<table align=center>
+									<tr>
+										<td><b>Title</b></td>
+										<td>Network Warrior</td>
+									</tr>
+									<tr>
+										<td><b>Authors</b></td>
+										<td>Gary A Donabue</td>
+									</tr>
+									<tr>
+										<td><b>Publisher</b></td>
+										<td>O Reilly</td>
+									</tr>
+									<tr>
+										<td><b>Edition</b></td>
+										<td>2nd</td>
+									</tr>
+									<tr>
+										<td><b>Year</b></td>
+										<td>2011</td>
+									</tr>
+									<tr>
+										<td colspan=2 align=center><a href="http://festyy.com/wCiBCA" target=_blank>Download Here</a></td>
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+					<br>
+				</div>
+				<div id="footer">
+					<footer class='mdl-mega-footer'>
+						<div class='mdl-mega-footer__middle-section'>
+							<div class='mdl-mega-footer__drop-down-section'>
+								<input class='mdl-mega-footer__heading-checkbox' type='checkbox' checked>
+								<h1 class='mdl-mega-footer__heading'>Semester 1</h1>
+								<ul class='mdl-mega-footer__link-list'>
+									<li><a href='ip.html'>Imperative Programming</a></li>
+									<li><a href='de.html'>Digital Electronics</a></li>
+									<li><a href='os.html'>Operating Systems</a></li>
+									<li><a href='dm.html'>Discrete Mathematics</a></li>
+									<li><a href='cs.html'>Communication Skills</a></li>
+								</ul>
+							</div>
+							<div class='mdl-mega-footer__drop-down-section'>
+								<input class='mdl-mega-footer__heading-checkbox' type='checkbox' checked>
+								<h1 class='mdl-mega-footer__heading'>Semester 2</h1>
+								<ul class='mdl-mega-footer__link-list'>
+									<li><a href='oop.html'>Object Oriented Programming</a></li>
+									<li><a href='ma.html'>Microprocessor Architecture</a></li>
+									<li><a href='wp.html'>Web Programming</a></li>
+									<li><a href='nsm.html'>Numerical and Statistical Methods</a></li>
+									<li><a href='gc.html'>Green Computing</a></li>
+								</ul>
+							</div>
+							<div class='mdl-mega-footer__drop-down-section'>
+								<input class='mdl-mega-footer__heading-checkbox' type='checkbox' checked>
+								<h1 class='mdl-mega-footer__heading'>Semester 3</h1>
+								<ul class='mdl-mega-footer__link-list'>
+									<li><a href='pp.html'>Python Programming</a></li>
+									<li><a href='ds.html'>Data Structures</a></li> 
+									<li><a href='cn.html'>Computer Networks</a></li>
+									<li><a href='dbms.html'>Database Management Systems</a></li>
+									<li><a href='am.html'>Applied Mathematics</a></li>
+									<li><a href='mp.html'>Mobile Programming</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class='mdl-mega-footer__middle-section'>
+							<div class='mdl-mega-footer__drop-down-section'>
+								<input class='mdl-mega-footer__heading-checkbox' type='checkbox' checked>
+								<h1 class='mdl-mega-footer__heading'>Semester 4</h1>
+								<ul class='mdl-mega-footer__link-list'>
+									<li><a href='cj.html'>Core Java</a></li>
+									<li><a href='es.html'>Introduction to Embedded Systems</a></li>
+									<li><a href='cost.html'>Computer Oriented Statistical Techniques</a></li>
+									<li><a href='se.html'>Software Engineering</a></li>
+									<li><a href='cga.html'>Computer Graphics and Animation</a></li>
+								</ul>
+							</div>
+							<div class='mdl-mega-footer__drop-down-section'>
+								<input class='mdl-mega-footer__heading-checkbox' type='checkbox' checked>
+								<h1 class='mdl-mega-footer__heading'>Semester 5</h1>
+								<ul class='mdl-mega-footer__link-list'>
+									<li><a href='spm.html'>Software Project Management</a></li>
+									<li><a href='iot.html'>Internet of Things</a></li>
+									<li><a href='awp.html'>Advanced Web Programming</a></li>
+									<li><a href='ai.html'>Artificial Intelligence (Elective - I)</a></li>
+									<li><a href='lsa.html'>Linux System Administration (Elective - I)</a></li>
+									<li><a href='ej.html'>Enterprise Java (Elective - II)</a></li>
+									<li><a href='ngt.html'>Next Generaion Technologies (Elective - II)</a></li>
+								</ul>
+							</div>
+							<div class='mdl-mega-footer__drop-down-section'>
+								<input class='mdl-mega-footer__heading-checkbox' type='checkbox' checked>
+								<h1 class='mdl-mega-footer__heading'>Semester 6</h1>
+								<ul class='mdl-mega-footer__link-list'>
+									<li><a href='sqa.html'>Software Quality Assurance</a></li>
+									<li><a href='sc.html'>Security in Computing</a></li>
+									<li><a href='bi.html'>Business Intelligence</a></li>
+									<li><a href='pgis.html'>Principles of Geographic Information Systems (Elective - I)</a></li>
+									<li><a href='en.html'>Enterprise Networking (Elective - I)</a></li>
+									<li><a href='itsm.html'>IT Services Management (Elective - II)</a></li>
+									<li><a href='cl.html'>Cyber Laws (Elective - II)</a></li>
+									<li><a href='amp.html'>Advanced Mobile Programming</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class='mdl-mega-footer__middle-section'>
+							<div class='mdl-mega-footer__drop-down-section'>
+								<input class='mdl-mega-footer__heading-checkbox' type='checkbox' checked>
+								<h1 class='mdl-mega-footer__heading'>Project - Final Year</h1>
+								<ul class='mdl-mega-footer__link-list'>
+									<li><a href='project.html'>Project Dissertation (Semester 5) & Project Implementation (Semester 6)</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class='mdl-mega-footer__bottom-section'>
+							<div class='mdl-logo'>Bsc IT</div>
+								<ul class='mdl-mega-footer__link-list'>
+									<li><a href='index.html'>Home</a></li>
+									<li><a href='eligibility.html'>Eligibility Criteria</a></li>
+									<li><a href='evaluation.html'>Evaluation</a></li>
+									<li><a href='qp.html'>Question Papers</a></li>
+									<li><a href='sr.html'>Software Required</a></li>
+								</ul>
+								<div class='mdl-logo'>Created and Maintained by</div>
+								<ul class='mdl-mega-footer__link-list'>
+									<li><a href='http://abdullahsurati.github.io'target=_blank>Abdullah Surati</a></li>
+								</ul>
+							</div>
+					</footer>
+				</div>
+			</main>
+		</div>
+		<script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+		<script src="index.js" type="text/javascript"></script>
+	</body>
+</html>
